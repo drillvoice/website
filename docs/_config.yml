@@ -1,0 +1,8 @@
+title: ACT Labor Watch
+description: Public log of documented errors and corrections
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+paginate: 10
+paginate_path: "/page:num/"
